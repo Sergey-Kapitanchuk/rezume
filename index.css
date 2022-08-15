@@ -1,0 +1,96 @@
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: -8px;
+}
+
+p{
+    font-style: normal;
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 1.142;
+        letter-spacing: 0.02em;
+}
+
+.myTitle{
+font-weight: 900;
+font-size: 44px;
+line-height: 1.363;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+text-align: center;
+}
+.summaryText{
+    width: 600px;
+    margin-left: 25px;
+    letter-spacing: 0.06em;
+}
+
+.title{
+    font-weight: 700;
+    line-height: 1.875;
+    letter-spacing: 0.06em;
+    background-color: rgb(96 165 250);
+    padding-left: 15px;
+}
+.title.my{
+font-weight: 700;
+    line-height: 1.875;
+    letter-spacing: 0.06em;
+    margin-left: 10px;
+}
+
+.portfolio{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1260px;
+    margin: 0 auto;
+}
+
+.container{
+    
+}
+
+.myExperience{
+    padding-left: 88px;
+    padding-top: 30px;
+}
+
+.mySkills{
+    width: 370px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:rgb(191 219 254);
+}
+
+.firstTittle{
+
+
+}
+
+.myPhoto{
+    border-radius: 50%;
+}
+
+address{
+    font-family: inherit;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 1.714;
+        letter-spacing: 0.03em;
+}
+
+.contactList{
+    list-style: none;
+    margin-left: -20px;
+}
+.contactList li{
+    margin-bottom: 10px;
+}
+
+.list{
+    margin-left: -25px;
+}
